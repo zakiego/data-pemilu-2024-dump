@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "695908": 5,
+    "695909": 1,
+    "695910": 1,
+    "695911": 5,
+    "695912": 100,
+    "695913": 13,
+    "695914": 1,
+    "695915": 4,
+    "695916": 3,
+    "695917": 1,
+    "695918": 11,
+    "null": null
+  },
+  "images": [
+    "https://sirekap-obj-formc.kpu.go.id/f4c7/pemilu/pdpd/33/08/17/20/16/3308172016005-20240216-075003--64306801-a7e9-4aeb-84bb-263b2f15190c.jpg",
+    "https://sirekap-obj-formc.kpu.go.id/f4c7/pemilu/pdpd/33/08/17/20/16/3308172016005-20240216-075005--f43f9c7f-e17d-4eb5-b16c-8853cec0cff5.jpg",
+    "https://sirekap-obj-formc.kpu.go.id/f4c7/pemilu/pdpd/33/08/17/20/16/3308172016005-20240216-075003--84bd1f2b-7f4c-4991-97a4-e830d6c72743.jpg"
+  ],
+  "administrasi": {
+    "suara_sah": 145,
+    "suara_total": 203,
+    "pemilih_dpt_j": 210,
+    "pemilih_dpt_l": 111,
+    "pemilih_dpt_p": 99,
+    "pengguna_dpt_j": 201,
+    "pengguna_dpt_l": 104,
+    "pengguna_dpt_p": 97,
+    "pengguna_dptb_j": 2,
+    "pengguna_dptb_l": 0,
+    "pengguna_dptb_p": 2,
+    "suara_tidak_sah": 58,
+    "pengguna_total_j": 203,
+    "pengguna_total_l": 104,
+    "pengguna_total_p": 99,
+    "pengguna_non_dpt_j": 0,
+    "pengguna_non_dpt_l": 0,
+    "pengguna_non_dpt_p": 0
+  },
+  "psu": null,
+  "ts": "2024-02-16 08:01:19",
+  "status_suara": true,
+  "status_adm": true
+}
