@@ -1,9 +1,9 @@
 {
   "mode": "hhcw",
   "chart": {
-    "100025": 858,
-    "100026": 29,
-    "100027": 804,
+    "100025": 98,
+    "100026": 139,
+    "100027": 11,
     "null": null
   },
   "images": [
@@ -13,7 +13,7 @@
   ],
   "administrasi": {
     "suara_sah": 248,
-    "suara_total": 252,
+    "suara_total": 253,
     "pemilih_dpt_j": 299,
     "pemilih_dpt_l": 894,
     "pemilih_dpt_p": 655,
@@ -23,7 +23,7 @@
     "pengguna_dptb_j": 8,
     "pengguna_dptb_l": 888,
     "pengguna_dptb_p": 880,
-    "suara_tidak_sah": 85,
+    "suara_tidak_sah": 5,
     "pengguna_total_j": 253,
     "pengguna_total_l": 647,
     "pengguna_total_p": 638,
@@ -32,7 +32,7 @@
     "pengguna_non_dpt_p": 886
   },
   "psu": null,
-  "ts": "2024-02-19 06:16:00",
+  "ts": "2024-02-21 11:00:00",
   "status_suara": true,
   "status_adm": true
 }
